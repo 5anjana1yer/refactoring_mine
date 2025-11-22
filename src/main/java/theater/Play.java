@@ -1,6 +1,6 @@
 package theater;
 
-/** Theater class.**/
+/** Play class.**/
 public class Play {
 
     private String name;
